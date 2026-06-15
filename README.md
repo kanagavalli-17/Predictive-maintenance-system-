@@ -1,2 +1,38 @@
-# Predictive-maintenance-system-
-# Predictive Maintenance System for Industrial Motors  An embedded system project designed to monitor motor temperature and vibration in real time. The system provides early warning alerts to prevent unexpected motor failures, reduce maintenance costs, and improve industrial productivity.
+# Predictive Maintenance System
+
+## Objective
+To monitor motor health using embedded systems.
+
+## Components
+- Arduino Uno
+- Potentiometer
+- Pushbutton
+- LED
+- Buzzer
+
+## Working
+Monitors temperature and vibration.
+Generates warning alerts when abnormal conditions occur.
+
+## Applications
+Industrial Monitoring
+Motor Maintenance
+Fault Detection
+
+Project Folder Structure
+Predictive-Maintenance-System
+
+│
+├── README.md
+│
+├── Code
+│   └── main.ino
+│
+├── Circuit
+│   └── circuit.png
+│
+├── Screenshots
+│   └── wokwi_simulation.png
+│
+└── Report
+    └── project_report.pdf
